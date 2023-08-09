@@ -1,48 +1,118 @@
 # Ball-Merger
 
-[Ball Merger] Game Membership and Usage Agreement
-
- 
-
-[Ball Merger] (Game) is a mobile device game developed by [SahaGames]. By downloading, installing the Game and/or registering as a member, you agree that you have read, understood, and will comply with the terms of use and applicable law. Terms such as "you", "your", "yours" are used for users. The terms "[Ball Merger]", "we", "us", "ours" are used for [SahaGames]. The plural uses of these terms also refer to the aforementioned parties.
-
- 
-
-1. Introduction
-
- 
-
-All content, materials, documents, information, graphics, designs, products, software, updates, patches and services of our sites, including but not limited to the Game, are legally protected by applicable treaties and intellectual/artistic works laws. Employees who access the Game and its websites assume the responsibility and undertake to comply with the laws regarding the Internet, data transfer, e-mail and privacy without any restriction. In the event that the Game, the websites and the materials are used contrary to the terms of use of stated herein, the Game makers are entitled to terminate your [Ball Merger] account and to cancel your membership without prior notice.
-
- 
-
- 
-
-2. Terms of Use
-
- 
-
-The use of the Game, any application or code, files, images created using or integrated in the code, data that comes with the Game, updates, patches, and other elements of the Game, but not limited thereto, are defined by the terms of use set forth herein. Access to the Game and related applications or downloading the Game does not give you any rights or any other intellectual property with regards to the Game or the applications. The Game is downloaded to mobile devices from the official market software of the device. [Ball Merger] is a Game played over the Internet and with the help of game servers. For this reason, your Internet connection must be active in order to play the Game. The game developer cannot be held accountable for any delays and/or interruptions that may be caused by service providers and/or infrastructure in Internet connections. In the event of loss of data due to technical failures, loss of rights due to loss of access to the Game and services, the Game owners acknowledge that they will to solve the problems but do not guarantee compensation in all circumstances. In the event that the developers detect players who use the Game for any purpose other than gaming, they can impose penalties on these players or completely remove them from the Game. Each player is obliged to comply with the rules of the Game and the decisions taken by the developers for purposes of organizing the Game. The Game software is constantly being changed and updated by the developers. During these updates, the software may be modified to the extent that the capacities of some devices may no longer be sufficient to operate it. In such cases, the software may not operate on the device. The developers agree to try to solve problems that occur but they cannot be held responsible for the loss of rights that you may experience if you cannot enter the Game. Using reverse engineering methods in order to try to solve, listen, change or redirect the communication between the Game software and the Game servers to other servers; simulating the Game servers, setting up and/or operating other Game servers is against the conditions of use. The Game developer has the right to initiate all kinds of legal proceedings concerning the persons and institutions involved in such activity. Creating in-Game nicknames that are vulgar or improper are against the rules. The responsibility of all writings and behavior belong to their owners. For users who exhibit such behavior, access to the Game may be temporarily and/or permanently prohibited by the Game developers and their authorized users. [SahaGames] reserves the right to change the content and price of the products sold in the Game. Payment for features a player has started using through a purchase cannot be refunded. In [Ball Merger] Game, in-app full page and/or band advertisement is displayed. User registration information is not shared with advertising companies.
-
- 
-
-3. Warnings
-
- 
-
-Warnings, including but not limited to changes in terms of use or other rules, may be made via e-mail or warning links on the websites. Terms of use are subject to change without notice. You are required to periodically review the terms of use to ensure that you are acting appropriately. In addition, when using certain applications and services, you may have to comply with rules that are specific for that application or service or that are displayed or sent to you from time to time. All these terms and conditions are hereby incorporated by reference into the terms of use set forth herein.
+Privacy policy
 
 
-If you have any questions, feel free to contact us at: sahagames2020@gmail.com
+This Service is provided by SAHA GAMES at no cost and is intended for use as is.
 
- 
 
-OPTING OUT OF BEHAVIOURALLY TARGETED ADVERTISING
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-If you wish to limit behaviourally targeted advertising, you can do so by limiting ad tracking in your device settings. Please note that opt-outs are specific to each browser and device and it may take a little bit of time before your opt-out will take effect.
 
-For mobile advertising in apps, you can reset your Advertising Identifier and depending on your device, select to opt out of interest-based ads (Android) or turn on the Limit Ad Tracking setting (iOS).
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will never sell your information, and will not use or share your information with anyone except as described in this Privacy Policy.
 
-Some services may include the use of in-game advertisements or brand placement. Such ads or sponsorships will be noted as such within the services.
 
-Please note that if you 'opt-out' it doesn't mean that you will no longer receive advertising, it means that the advertising you see displayed will not be customized to you and your interests and may be less relevant to you.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+
+
+Information Collection and Use
+
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to IDFA. The information that we request will be retained by us and used as described in this privacy policy.
+
+
+The app does use third-party services that may collect information used to identify you.
+
+
+Link to the privacy policy of third party service providers used by the app:
+
+
+https://facebook.com/about/privacy
+https://gameanalytics.com/privacy
+https://www.adjust.com/terms/privacy-policy/
+https://www.voodoo.io/
+
+Log Data
+
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device model, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+
+
+Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+
+To facilitate our Service;
+
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+
+Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+
+Children’s Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+
+Request User Data Deletion
+
+When you install and use SAHA GAMES mobile applications, we can collect and process some of your data for different legitimate purposes.
+
+
+You will find below explanations regarding the reasons why we may collect data.
+
+
+Why is data collected?
+
+SAHA GAMES and its third-party partners collect data:
+
+To provide you with the services you asked for
+To run analytics and understand how users interact with our product and services in order to continuously improve it
+
+The third-party partners that SAHA GAMES will share the data with are:
+
+GameAnalytics
+Facebook Analytics
+Adjust
+Voodoo
+Data deletion requests
+
+To delete user data collected by SAHA GAMES, please reach out to sahagames2020@gmail.com
+
+
+If you also want to request the deletion of the data that may have been collected about you or your device by our third-party partners that are acting as independent data controllers, you will find below the contact for each partner and the link to the relevant section of their privacy policies:
+
+
+GameAnalytics:
+
+email: privacy@gameanalytics.com
+privacy policy: https://gameanalytics.com/privacy/#6-changing-or-deleting-your-information
+Facebook Analytics:
+
+email: none, please refer to the privacy policy
+privacy policy: https://www.facebook.com/policy.php
+Adjust:
+
+email: privacy@adjust.com
+privacy policy: https://www.adjust.com/terms/privacy-policy/
+Voodoo:
+
+email: dpo@voodoo.io
+privacy policy: https://www.voodoo.io
+
